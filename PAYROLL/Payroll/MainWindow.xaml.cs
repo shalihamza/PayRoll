@@ -63,7 +63,8 @@ namespace Payroll
             //tabControl.Visibility = Visibility.Collapsed;
             DateTime currentDate = DateTime.Now;
             theDate = currentDate.ToShortDateString();
-
+            MessageBox.Show("ali hamza change 1");
+            MessageBox.Show("ali hamza change 2");
             cmd.Connection = con;
             txt_empl_no.IsEnabled = true;
             AddHotKeys();
