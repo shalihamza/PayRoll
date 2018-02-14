@@ -1,4 +1,4 @@
-﻿//Update by Ali Hamza
+﻿//by Ali Hamza
 
 using System;
 using System.Collections.Generic;
@@ -66,7 +66,7 @@ namespace Payroll
             MessageBox.Show("ali hamza change 1");
             MessageBox.Show("ali hamza change 2");
             MessageBox.Show("ali hamza change 3");
-            MessageBox.Show("ali hamza change 4");
+            MessageBox.Show("Changing Saves");
             cmd.Connection = con;
             txt_empl_no.IsEnabled = true;
             AddHotKeys();
