@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A7268855-099D-4095-8E35-4756D9FE557F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Payroll</RootNamespace>
+    <AssemblyName>Payroll</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="window_emps.xaml.cs">
+      <DependentUpon>window_emps.xaml</DependentUpon>
+    </Compile>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="window_emps.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="images\icons\Thumbs.db" />
+    <None Include="images\Original Grafix\bg_btn.psd" />
+    <None Include="images\Original Grafix\bg_management.psd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\bg\bg_btn.gif" />
+    <Resource Include="images\bg\bg_management.gif" />
+    <Resource Include="images\bg\bg_mis.png" />
+    <Resource Include="images\garden.jpg" />
+    <Resource Include="images\icons\icon_9_15.gif" />
+    <Resource Include="images\icons\icon_activeloan.png" />
+    <Resource Include="images\icons\icon_activemen.png" />
+    <Resource Include="images\icons\icon_add.ico" />
+    <Resource Include="images\icons\icon_add.png" />
+    <Resource Include="images\icons\icon_advance.png" />
+    <Resource Include="images\icons\icon_analysis-process.png" />
+    <Resource Include="images\icons\icon_annual-reports.png" />
+    <Resource Include="images\icons\icon_area.png" />
+    <Resource Include="images\icons\icon_as-reports.png" />
+    <Resource Include="images\icons\icon_available.png" />
+    <Resource Include="images\icons\icon_balance.png" />
+    <Resource Include="images\icons\icon_bank.png" />
+    <Resource Include="images\icons\icon_birthday.png" />
+    <Resource Include="images\icons\icon_checking.png" />
+    <Resource Include="images\icons\icon_company-workers.png" />
+    <Resource Include="images\icons\icon_confirmstatus.png" />
+    <Resource Include="images\icons\icon_data_entry.ico" />
+    <Resource Include="images\icons\icon_deactiveloan.png" />
+    <Resource Include="images\icons\icon_delete.png" />
+    <Resource Include="images\icons\icon_department.png" />
+    <Resource Include="images\icons\icon_designation.png" />
+    <Resource Include="images\icons\icon_details.ico" />
+    <Resource Include="images\icons\icon_down.png" />
+    <Resource Include="images\icons\icon_employee.png" />
+    <Resource Include="images\icons\icon_employees.png" />
+    <Resource Include="images\icons\icon_exit1.png" />
+    <Resource Include="images\icons\icon_exit2.png" />
+    <Resource Include="images\icons\icon_expense.png" />
+    <Resource Include="images\icons\icon_export.png" />
+    <Resource Include="images\icons\icon_field.png" />
+    <Resource Include="images\icons\icon_field1.png" />
+    <Resource Include="images\icons\icon_filter.png" />
+    <Resource Include="images\icons\icon_final.png" />
+    <Resource Include="images\icons\icon_full_day.png" />
+    <Resource Include="images\icons\icon_full_half.png" />
+    <Resource Include="images\icons\icon_fund.png" />
+    <Resource Include="images\icons\icon_global.png" />
+    <Resource Include="images\icons\icon_gross-basic.png" />
+    <Resource Include="images\icons\icon_group.png" />
+    <Resource Include="images\icons\icon_help.png" />
+    <Resource Include="images\icons\icon_home.png" />
+    <Resource Include="images\icons\icon_id-card.png" />
+    <Resource Include="images\icons\icon_incentive.png" />
+    <Resource Include="images\icons\icon_increasing-only.png" />
+    <Resource Include="images\icons\icon_increasing-stock.png" />
+    <Resource Include="images\icons\icon_information.png" />
+    <Resource Include="images\icons\icon_iquit.png" />
+    <Resource Include="images\icons\icon_joiningletter.png" />
+    <Resource Include="images\icons\icon_late.png" />
+    <Resource Include="images\icons\icon_leaves.png" />
+    <Resource Include="images\icons\icon_leaves_types.png" />
+    <Resource Include="images\icons\icon_linked-in.png" />
+    <Resource Include="images\icons\icon_list.png" />
+    <Resource Include="images\icons\icon_loan.png" />
+    <Resource Include="images\icons\icon_loan1.png" />
+    <Resource Include="images\icons\icon_manage.png" />
+    <Resource Include="images\icons\icon_mapedarea.png" />
+    <Resource Include="images\icons\icon_moredetail.png" />
+    <Resource Include="images\icons\icon_notavailable.png" />
+    <Resource Include="images\icons\icon_office-employee.png" />
+    <Resource Include="images\icons\icon_other2.png" />
+    <Resource Include="images\icons\icon_other3.png" />
+    <Resource Include="images\icons\icon_payment.png" />
+    <Resource Include="images\icons\icon_pfdeduction.png" />
+    <Resource Include="images\icons\icon_print.png" />
+    <Resource Include="images\icons\icon_process.ico" />
+    <Resource Include="images\icons\icon_process1.png" />
+    <Resource Include="images\icons\icon_quit.png" />
+    <Resource Include="images\icons\icon_religion.png" />
+    <Resource Include="images\icons\icon_reports.ico" />
+    <Resource Include="images\icons\icon_Rs.png" />
+    <Resource Include="images\icons\icon_Rscut.png" />
+    <Resource Include="images\icons\icon_salary.png" />
+    <Resource Include="images\icons\icon_salarypik.png" />
+    <Resource Include="images\icons\icon_siza.ico" />
+    <Resource Include="images\icons\icon_social.png" />
+    <Resource Include="images\icons\icon_success.png" />
+    <Resource Include="images\icons\icon_test.ico" />
+    <Resource Include="images\icons\icon_timeline.png" />
+    <Resource Include="images\icons\icon_transfer.png" />
+    <Resource Include="images\icons\icon_undo.png" />
+    <Resource Include="images\icons\icon_up.png" />
+    <Resource Include="images\icons\icon_various-lines.png" />
+    <Resource Include="images\icons\icon_various-paint.png" />
+    <Resource Include="images\icons\icon_vehicalrepair.png" />
+    <Resource Include="images\icons\icon_wish-list.png" />
+    <Resource Include="images\icons\icon_wish-list3.png" />
+    <Resource Include="images\icons\icon_worker-salary.png" />
+    <Resource Include="images\icons\icon_zone.png" />
+    <Resource Include="images\icons\icon_zone1.png" />
+    <Resource Include="images\icons\logo.ico" />
+    <Resource Include="images\icons\logo_mis1.jpg" />
+    <Resource Include="images\logoSIZA.gif" />
+    <Resource Include="images\logo_mis_transp.png" />
+    <Resource Include="images\WallpapersCollection1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="images\buttons\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\photographs\0087.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\nic\0087.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

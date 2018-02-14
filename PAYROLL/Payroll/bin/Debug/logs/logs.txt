@@ -1,0 +1,9 @@
+Bismillah
+=========#
+Created using c#, at 8:36 PM 08-Feb-2018, by Muhammad Aamir Mushtaq
+=========================================================#
+
+insert into [groups] (group_code, group_abr, group_name, rec_date, status) values (7,'a','abc', #2/9/2018#, 1)
+insert into [groups] (group_code, group_abr, group_name, rec_date, status) values (8,'C','Aamir', #09-Feb-18#, 1)
+insert into [groups] (group_code, group_abr, group_name, rec_date, status) values (8,'C','hi', #2/9/2018#, 1)
+insert into [groups] (group_code, group_abr, group_name, rec_date, status) values (8,'da','z', #2/9/2018#, 1)

@@ -1,0 +1,102 @@
+c:\users\umair\documents\visual studio 2017\Projects\Payroll\Payroll\bin\Debug\Payroll.exe.config
+c:\users\umair\documents\visual studio 2017\Projects\Payroll\Payroll\bin\Debug\Payroll.exe
+c:\users\umair\documents\visual studio 2017\Projects\Payroll\Payroll\bin\Debug\Payroll.pdb
+c:\users\umair\documents\visual studio 2017\Projects\Payroll\Payroll\obj\Debug\Payroll.csprojResolveAssemblyReference.cache
+c:\users\umair\documents\visual studio 2017\Projects\Payroll\Payroll\obj\Debug\MainWindow.g.cs
+c:\users\umair\documents\visual studio 2017\Projects\Payroll\Payroll\obj\Debug\window_emps.g.cs
+c:\users\umair\documents\visual studio 2017\Projects\Payroll\Payroll\obj\Debug\App.g.cs
+c:\users\umair\documents\visual studio 2017\Projects\Payroll\Payroll\obj\Debug\Payroll_MarkupCompile.cache
+c:\users\umair\documents\visual studio 2017\Projects\Payroll\Payroll\obj\Debug\Payroll_MarkupCompile.lref
+c:\users\umair\documents\visual studio 2017\Projects\Payroll\Payroll\obj\Debug\MainWindow.baml
+c:\users\umair\documents\visual studio 2017\Projects\Payroll\Payroll\obj\Debug\window_emps.baml
+c:\users\umair\documents\visual studio 2017\Projects\Payroll\Payroll\obj\Debug\Payroll.g.resources
+c:\users\umair\documents\visual studio 2017\Projects\Payroll\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+c:\users\umair\documents\visual studio 2017\Projects\Payroll\Payroll\obj\Debug\Payroll.csproj.GenerateResource.Cache
+c:\users\umair\documents\visual studio 2017\Projects\Payroll\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+c:\users\umair\documents\visual studio 2017\Projects\Payroll\Payroll\obj\Debug\Payroll.exe
+c:\users\umair\documents\visual studio 2017\Projects\Payroll\Payroll\obj\Debug\Payroll.pdb
+I:\03 Official DATA\WPF Projects\Payroll - Update\Payroll\bin\Debug\Payroll.exe.config
+I:\03 Official DATA\WPF Projects\Payroll - Update\Payroll\bin\Debug\Payroll.exe
+I:\03 Official DATA\WPF Projects\Payroll - Update\Payroll\bin\Debug\Payroll.pdb
+I:\03 Official DATA\WPF Projects\Payroll - Update\Payroll\obj\Debug\Payroll.csprojResolveAssemblyReference.cache
+I:\03 Official DATA\WPF Projects\Payroll - Update\Payroll\obj\Debug\MainWindow.g.cs
+I:\03 Official DATA\WPF Projects\Payroll - Update\Payroll\obj\Debug\window_emps.g.cs
+I:\03 Official DATA\WPF Projects\Payroll - Update\Payroll\obj\Debug\App.g.cs
+I:\03 Official DATA\WPF Projects\Payroll - Update\Payroll\obj\Debug\Payroll_MarkupCompile.cache
+I:\03 Official DATA\WPF Projects\Payroll - Update\Payroll\obj\Debug\Payroll_MarkupCompile.lref
+I:\03 Official DATA\WPF Projects\Payroll - Update\Payroll\obj\Debug\MainWindow.baml
+I:\03 Official DATA\WPF Projects\Payroll - Update\Payroll\obj\Debug\window_emps.baml
+I:\03 Official DATA\WPF Projects\Payroll - Update\Payroll\obj\Debug\Payroll.g.resources
+I:\03 Official DATA\WPF Projects\Payroll - Update\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+I:\03 Official DATA\WPF Projects\Payroll - Update\Payroll\obj\Debug\Payroll.csproj.GenerateResource.Cache
+I:\03 Official DATA\WPF Projects\Payroll - Update\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+I:\03 Official DATA\WPF Projects\Payroll - Update\Payroll\obj\Debug\Payroll.exe
+I:\03 Official DATA\WPF Projects\Payroll - Update\Payroll\obj\Debug\Payroll.pdb
+E:\Works\WPF Projects\PAYROLL\Payroll\bin\Debug\Payroll.exe.config
+E:\Works\WPF Projects\PAYROLL\Payroll\bin\Debug\Payroll.exe
+E:\Works\WPF Projects\PAYROLL\Payroll\bin\Debug\Payroll.pdb
+E:\Works\WPF Projects\PAYROLL\Payroll\obj\Debug\Payroll.csprojResolveAssemblyReference.cache
+E:\Works\WPF Projects\PAYROLL\Payroll\obj\Debug\MainWindow.g.cs
+E:\Works\WPF Projects\PAYROLL\Payroll\obj\Debug\window_emps.g.cs
+E:\Works\WPF Projects\PAYROLL\Payroll\obj\Debug\App.g.cs
+E:\Works\WPF Projects\PAYROLL\Payroll\obj\Debug\Payroll_MarkupCompile.cache
+E:\Works\WPF Projects\PAYROLL\Payroll\obj\Debug\Payroll_MarkupCompile.lref
+E:\Works\WPF Projects\PAYROLL\Payroll\obj\Debug\MainWindow.baml
+E:\Works\WPF Projects\PAYROLL\Payroll\obj\Debug\window_emps.baml
+E:\Works\WPF Projects\PAYROLL\Payroll\obj\Debug\Payroll.g.resources
+E:\Works\WPF Projects\PAYROLL\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+E:\Works\WPF Projects\PAYROLL\Payroll\obj\Debug\Payroll.csproj.GenerateResource.Cache
+E:\Works\WPF Projects\PAYROLL\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+E:\Works\WPF Projects\PAYROLL\Payroll\obj\Debug\Payroll.exe
+E:\Works\WPF Projects\PAYROLL\Payroll\obj\Debug\Payroll.pdb
+E:\03 OFFICIAL\PAYROLL\Payroll\bin\Debug\Payroll.exe.config
+E:\03 OFFICIAL\PAYROLL\Payroll\bin\Debug\Payroll.exe
+E:\03 OFFICIAL\PAYROLL\Payroll\bin\Debug\Payroll.pdb
+E:\03 OFFICIAL\PAYROLL\Payroll\obj\Debug\Payroll.csprojResolveAssemblyReference.cache
+E:\03 OFFICIAL\PAYROLL\Payroll\obj\Debug\MainWindow.g.cs
+E:\03 OFFICIAL\PAYROLL\Payroll\obj\Debug\window_emps.g.cs
+E:\03 OFFICIAL\PAYROLL\Payroll\obj\Debug\App.g.cs
+E:\03 OFFICIAL\PAYROLL\Payroll\obj\Debug\Payroll_MarkupCompile.cache
+E:\03 OFFICIAL\PAYROLL\Payroll\obj\Debug\Payroll_MarkupCompile.lref
+E:\03 OFFICIAL\PAYROLL\Payroll\obj\Debug\MainWindow.baml
+E:\03 OFFICIAL\PAYROLL\Payroll\obj\Debug\window_emps.baml
+E:\03 OFFICIAL\PAYROLL\Payroll\obj\Debug\Payroll.g.resources
+E:\03 OFFICIAL\PAYROLL\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+E:\03 OFFICIAL\PAYROLL\Payroll\obj\Debug\Payroll.csproj.GenerateResource.Cache
+E:\03 OFFICIAL\PAYROLL\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+E:\03 OFFICIAL\PAYROLL\Payroll\obj\Debug\Payroll.exe
+E:\03 OFFICIAL\PAYROLL\Payroll\obj\Debug\Payroll.pdb
+I:\03 Official DATA\WPF Projects\PAYROLL\Payroll\bin\Debug\Payroll.exe.config
+I:\03 Official DATA\WPF Projects\PAYROLL\Payroll\bin\Debug\Payroll.exe
+I:\03 Official DATA\WPF Projects\PAYROLL\Payroll\bin\Debug\Payroll.pdb
+I:\03 Official DATA\WPF Projects\PAYROLL\Payroll\obj\Debug\Payroll.csprojResolveAssemblyReference.cache
+I:\03 Official DATA\WPF Projects\PAYROLL\Payroll\obj\Debug\MainWindow.g.cs
+I:\03 Official DATA\WPF Projects\PAYROLL\Payroll\obj\Debug\window_emps.g.cs
+I:\03 Official DATA\WPF Projects\PAYROLL\Payroll\obj\Debug\App.g.cs
+I:\03 Official DATA\WPF Projects\PAYROLL\Payroll\obj\Debug\Payroll_MarkupCompile.cache
+I:\03 Official DATA\WPF Projects\PAYROLL\Payroll\obj\Debug\Payroll_MarkupCompile.lref
+I:\03 Official DATA\WPF Projects\PAYROLL\Payroll\obj\Debug\MainWindow.baml
+I:\03 Official DATA\WPF Projects\PAYROLL\Payroll\obj\Debug\window_emps.baml
+I:\03 Official DATA\WPF Projects\PAYROLL\Payroll\obj\Debug\Payroll.g.resources
+I:\03 Official DATA\WPF Projects\PAYROLL\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+I:\03 Official DATA\WPF Projects\PAYROLL\Payroll\obj\Debug\Payroll.csproj.GenerateResource.Cache
+I:\03 Official DATA\WPF Projects\PAYROLL\Payroll\obj\Debug\Payroll.exe
+I:\03 Official DATA\WPF Projects\PAYROLL\Payroll\obj\Debug\Payroll.pdb
+\\90.0.0.3\WPF Projects\PAYROLL\Payroll\bin\Debug\Payroll.exe.config
+\\90.0.0.3\WPF Projects\PAYROLL\Payroll\bin\Debug\Payroll.exe
+\\90.0.0.3\WPF Projects\PAYROLL\Payroll\bin\Debug\Payroll.pdb
+\\90.0.0.3\WPF Projects\PAYROLL\Payroll\obj\Debug\Payroll.csprojResolveAssemblyReference.cache
+\\90.0.0.3\WPF Projects\PAYROLL\Payroll\obj\Debug\MainWindow.g.cs
+\\90.0.0.3\WPF Projects\PAYROLL\Payroll\obj\Debug\window_emps.g.cs
+\\90.0.0.3\WPF Projects\PAYROLL\Payroll\obj\Debug\App.g.cs
+\\90.0.0.3\WPF Projects\PAYROLL\Payroll\obj\Debug\Payroll_MarkupCompile.cache
+\\90.0.0.3\WPF Projects\PAYROLL\Payroll\obj\Debug\Payroll_MarkupCompile.lref
+\\90.0.0.3\WPF Projects\PAYROLL\Payroll\obj\Debug\MainWindow.baml
+\\90.0.0.3\WPF Projects\PAYROLL\Payroll\obj\Debug\window_emps.baml
+\\90.0.0.3\WPF Projects\PAYROLL\Payroll\obj\Debug\Payroll.g.resources
+\\90.0.0.3\WPF Projects\PAYROLL\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+\\90.0.0.3\WPF Projects\PAYROLL\Payroll\obj\Debug\Payroll.csproj.GenerateResource.Cache
+\\90.0.0.3\WPF Projects\PAYROLL\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+\\90.0.0.3\WPF Projects\PAYROLL\Payroll\obj\Debug\Payroll.exe
+\\90.0.0.3\WPF Projects\PAYROLL\Payroll\obj\Debug\Payroll.pdb
+I:\03 Official DATA\WPF Projects\PAYROLL\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+insert into groups (group_code,group_abr,group,rec_date,status) values(4,'a','a',#2/8/2018#,1)
+insert into groups (group_code,group_abr,group,rec_date,status) values(4,'CFN','Ninja',#08-Feb-18#,1)
+insert into groups (group_code,group_abr,group,rec_date,status) values(4,'D','Nnja',#08-Feb-18#,1)
+insert into groups (group_code,group_abr,group,rec_date,status) values (4,'c','Ninja',#08-Feb-18#,1)
+insert into groups (group_code,group_abr,group,rec_date,status) values (4,'d','sd',#08-Feb-18#,1)
+insert into [groups] (group_code, group_abr, group, rec_date, status) values (4,'CH','Ninja', #08-Feb-18#, 1)
